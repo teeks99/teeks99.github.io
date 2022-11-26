@@ -35,9 +35,7 @@ img: ":home-heading.jpg"
 #published: false
 ---
 
-{%- comment -%} Please delete below and place your page content here {%- endcomment -%}
+# Tom's Site
 
-{%- include util/auto-content-generator.liquid -%}
-{{ website_info_text_first }}
-
-{{ website_info_text_second }}
+Welcome to my site.  There's a bunch of odds and ends scattered around here, I hope you find what you're looking for.  
+If you search long enough there's some cool stuff.

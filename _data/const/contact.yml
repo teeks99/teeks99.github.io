@@ -14,6 +14,9 @@ github:
 email:
   icon: "fa fa-envelope-o"
   url: ""
+mastodon:
+  icon: "fa fa-globe"
+  url: "https://mstdn.io"
 linkedin:
   icon: "fa fa-linkedin"
   url: "https://www.linkedin.com/in"
