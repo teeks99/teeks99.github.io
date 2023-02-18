@@ -37,7 +37,8 @@
   /* column view picture height */
   min-height: 120px;
   border-radius: 10px;
-  background-size: cover;
+  background-size: contain;
+  background-repeat: no-repeat;
   background-position: 50% 50%;
   border: none;
 }

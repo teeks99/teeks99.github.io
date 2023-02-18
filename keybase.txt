@@ -1,0 +1,70 @@
+==================================================================
+https://keybase.io/teeks99
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://teeks99.com
+  * I am teeks99 (https://keybase.io/teeks99) on keybase.
+  * I have a public key with fingerprint 54B5 88A1 4070 BEC2 6DEE  F539 EE42 C302 FB61 94A8
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "54b588a14070bec26deef539ee42c302fb6194a8",
+            "host": "keybase.io",
+            "key_id": "ee42c302fb6194a8",
+            "uid": "ffa35a7f7635b0f6ef8836f39cd6ee00",
+            "username": "teeks99"
+        },
+        "service": {
+            "hostname": "teeks99.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1412714233,
+    "expire_in": 157680000,
+    "prev": "dcd0b7a7d3ec72946d6d95d28b5f4655a7d4020a2adcea7a80193a9a3b689177",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owGbwMvMwMT4zukw0+/EKSsYTx/4kMQQYuLPVq2UlJ9SqWRVrZSdCqbSMvPSU4sK
+ijLzSpSslExNkkwtLBINTQzMDZJSk43MUlJT00yNLVNTTYySjQ2M0pLMDC1NEi2U
+dJQy8otBOoDGJCUWp+pl5gPFgJz4zBSgKBb1pWCJtLREY9NE8zRzM2PTJIM0s9Q0
+CwtjszRjy+QUs9RUAwOQwuLUorzE3FSg6pLU1OxiS0ulWh0loGBZZnIqyMkgm1EV
+6CXn5wJ1FhTll+Qn5+cAJTJKSgqsQPpKKgtACstTk+KhRsQnZealAH0N1FCWWlSc
+mZ+nZGUIVJlckgky09DE0Mjc0MTI2FhHKbWiILMoNT4TpMLU3MzCAAhA1qSWAY1M
+SU4xSDJPNE8xTk02N7I0MUsxS7E0TTGySDJNMzEzBfoyxcTAyCDRKDElOTXRPNHC
+wNDSONEy0TjJzMLS0NxcCeSpwrx8JSugTSWJ6UAjizPT8xJLSotSlWq5OplkWBgY
+mRjYWJlAEcfAxSkAi84nZ/j/aax3mnCbc7PdP6aHhX9W9e0J5VUV83CV+3F6Rmnj
+3gsStXfMt1w5G3Qm5a5G6J91vHsOykR4WJ1VOHWEa0/50bhX7G9drgleOpV+86zp
+8g21CtsNtW23Hl1tf4bd7zK7xt/Yfe8nTzHdmfGpS0WOwzXI/kSoW+g8a+vjCzZM
+jZNbWm88adPNrISmtK+yDy15ZyqlrOuSO8nDE+Wo0P0nINnopJfqyaVHYzJZUuKX
+zVyacV+waf2shjfWlyP9e0801Ly9PWl3fFKYfML/7Y9NXh1gyZ88LUfipe/S+Rf5
+GfguNK2sWzg1sFZz7fH91xt3t++pFPg36drc2hf3nu+7L9SYYlw7y771qu/fqWum
+VF5b5yzrn7TQdFP87vUrV368m98nqV2g6Sj+aX104dHDCpy8yrNm8uXf9pp1xOFN
+sG6mWXXv7F/NTBqRJVs/fTjeWmdmZr4qv0Bj/9Kzt9It7vw/N4fZZdeHj4daLN/a
+i/5bynPyS8Bhrez4GKsDr5gLNXiWfvgS+Hnesu1cHy/cuN4T1348P3DWYZ7Taz5O
+n6Tk7JeuxOmQ6uP8+6q8W5ir6J3mpRM1U90OLg5XrH1kKXtgxy7TY6ld9wN+iT/J
+0t956EfmkYLXqz5tfs+Q9Yixnluz23BX7bYHKwq+1gdEdDrU/7rAkW+g7RbJ472x
+Y6dOuklDfZw4dyu/Xd3qrAdvhPbbLpliV10afNFaCQA=
+=WQ48
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/teeks99
+
+==================================================================
+
