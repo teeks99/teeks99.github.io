@@ -4,10 +4,10 @@ layout: home
 lng_pair: id_home
 
 # image for page specific usage
-img: ":home-heading.jpg"
+img: ":argentina-pano10_resized.jpg"
 # publish date (used for seo)
 # if not specified, site.time will be used.
-#date: 2022-03-03 12:32:00 +0000
+#date: 2023-02-17 00:00:01 +0000
 
 # for override items in _data/lang/[language].yml
 #title: My title
@@ -37,5 +37,24 @@ img: ":home-heading.jpg"
 
 # Tom's Site
 
-Welcome to my site.  There's a bunch of odds and ends scattered around here, I hope you find what you're looking for.  
+Welcome to my site.  There's a bunch of odds and ends scattered around here, I hope you find what you're looking for. 
 If you search long enough there's some cool stuff.
+
+This is my **new** site (see how long this stays here!), still pulling things in, and it will probably never be 
+"finished".
+
+
+I'm active on [facebook](https://www.facebook.com/teeks99), <a rel="me" href="https://mstdn.io/@teeks99">Mastodon</a>, and more.
+
+I have a seperate page I keep for my work building boost for windows and a tumblr that tries to document what I'm doing with boost builds.
+If you want to contact me securely, you can use my [PGP/GPG Key](Thomas Kent (Tom) teeks99@yahoo.com (0xFB6194A8) pub.asc) (use the 4096RSA one) which has the following fingerprint:
+
+    pub   1024D/95207C90 2006-05-23
+        Key fingerprint = 8AB6 F852 C418 5476 28E0  EA3F 71C6 6BB5 9520 7C90
+    uid                  Thomas Kent (Tom) 
+    sub   2048g/E29AFF45 2006-05-23
+
+    pub   4096R/FB6194A8 2013-08-18
+        Key fingerprint = 54B5 88A1 4070 BEC2 6DEE  F539 EE42 C302 FB61 94A8
+    uid                  Thomas Kent (Tom) 
+    sub   4096R/E91E3CE4 2013-08-18
