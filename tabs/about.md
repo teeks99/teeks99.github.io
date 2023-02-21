@@ -31,4 +31,4 @@ uid                  Thomas Kent (Tom)
 sub   4096R/E91E3CE4 2013-08-18
 ```
 
-I'm also active on <a rel="me" href="https://mstdn.io/@teeks99">Mastodon - @teeks99@mstdn.io</a>.
+I'm also active on <a rel="me" href="https://fosstodon.org/@teeks99">Mastodon - @teeks99@fosstodon.org</a>.

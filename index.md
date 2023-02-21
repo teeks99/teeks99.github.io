@@ -44,7 +44,7 @@ This is my **new** site (see how long this stays here!), still pulling things in
 "finished".
 
 
-I'm active on [facebook](https://www.facebook.com/teeks99), <a rel="me" href="https://mstdn.io/@teeks99">Mastodon</a>, and more.
+I'm active on [facebook](https://www.facebook.com/teeks99), <a rel="me" href="https://fosstodon.org/@teeks99">Mastodon</a>, and more.
 
 I have a seperate page I keep for my work building boost for windows and a tumblr that tries to document what I'm doing with boost builds.
 If you want to contact me securely, you can use my [PGP/GPG Key](Thomas Kent (Tom) teeks99@yahoo.com (0xFB6194A8) pub.asc) (use the 4096RSA one) which has the following fingerprint:

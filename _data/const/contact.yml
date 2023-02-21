@@ -16,7 +16,7 @@ email:
   url: ""
 mastodon:
   icon: "fa fa-globe"
-  url: "https://mstdn.io"
+  url: "https://fosstodon.org"
 linkedin:
   icon: "fa fa-linkedin"
   url: "https://www.linkedin.com/in"
