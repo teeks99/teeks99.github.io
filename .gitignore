@@ -5,7 +5,9 @@
 !.editorconfig
 
 # jekyll Cache
+_config_site_build.yml
 _site
+_site_build
 .sass-cache
 .jekyll-metadata
 Gemfile.lock
