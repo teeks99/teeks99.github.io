@@ -8,4 +8,5 @@ sed 's/teeks99.github.io/teeks99.com/' _config.yml > _config_site_build.yml \
   --exclude keep \
   --exclude tmp \
   --exclude laura \
+  --exclude multimedia-intro \
   _site_build/ lovejoy.teeks99.com:teeks99.com/
