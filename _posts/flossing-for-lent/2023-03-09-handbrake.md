@@ -7,7 +7,7 @@ tags: [software, floss]
 # publish date
 date: 2023-03-09 00:00:00 +0600
 
-img: "/assets/img/floss/handbrake_logo.svg"
+img: "/assets/img/floss/handbrake_logo.png"
 ---
 
 
