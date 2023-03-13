@@ -10,7 +10,7 @@ date: 2023-03-13 00:00:00 +0600
 img: "/assets/img/floss/nextcloud_logo.svg"
 ---
 
-One of the great revolutions in the last ~10 years is the ability to leveage cloud services for your day-to-day 
+One of the great revolutions in the last ~10 years is the ability to leverage cloud services for your day-to-day 
 activities. Google Drive/Docs, Dropbox, iMessage, Google Calendar, etc. The **huge** downside to these is that you are 
 trusting everything to these big companies, that often don't have your interests at heart.
 
