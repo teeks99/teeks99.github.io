@@ -15,7 +15,7 @@ Thunderbird.
 
 Thunderbird is very simple to setup, easily connecting to major email providers or to a personal/business account. It
 stores your email in a way that is easy to backup. It isn't particularly flashy, but you want an email client to be 
-funcional, not flashy. 
+functional, not flashy. 
 
 *   [Thunderbird](https://www.thunderbird.net/en-US/)
 *   [K-9 Mail](https://k9mail.app/) is becoming Thunderbird for Android
