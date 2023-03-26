@@ -10,7 +10,7 @@ date: 2023-03-27 00:00:00 +0600
 img: "/assets/img/floss/youtube-dl_logo.png"
 ---
 
-There are so many good video services out there these days. Unfortunatly, they mostly depend on you being online to 
+There are so many good video services out there these days. Unfortunately, they mostly depend on you being online to 
 watch the videos. Youtube-dl (and its nicer fork yt-dlp) solve this problem. You can point it at a video on any of 
 dozens of sites, and it will download it so you can watch while offline.
 
