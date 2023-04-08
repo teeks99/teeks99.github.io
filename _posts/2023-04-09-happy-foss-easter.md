@@ -38,45 +38,45 @@ anyone else in the community to come up with a similar list there would definite
 
 If you haven't been following all lent, here's the list I came up with:
 
-*   Firefox
-*   Linux
-*   Libre Office
-*   VS Code
-*   Android
-*   Matrix
-*   GIMP
-*   Ubuntu
-*   VLC
-*   Inkscape
-*   Python
-*   OBS
-*   Handbrake
-*   Super Tux Kart
-*   F-Droid
-*   Nextcloud
-*   WeeWx
-*   OsmAnd
-*   Jellyfin
-*   Bitwarden
-*   Thunderbird
-*   Syncthing
-*   Jitsi
-*   AntennaPod
-*   Docker
-*   Kdenlive
-*   Scratch
-*   Youtube-dl/yt-dlp
-*   Blender
-*   PDF Shuffler
-*   7-Zip
-*   Veracrypt
-*   wX
-*   GCompris
-*   TOR
-*   Notepad++
-*   Signal
-*   Tux Paint
-*   Mastodon
+*   [Firefox](flossing-for-lent/2023-02-23-firefox)
+*   [Linux](flossing-for-lent/2023-02-24-linux)
+*   [Libre Office](flossing-for-lent/2023-02-25-libre-office)
+*   [VS Code](flossing-for-lent/2023-02-27-vs-code)
+*   [Android](flossing-for-lent/2023-02-28-android)
+*   [Matrix](flossing-for-lent/2023-03-01-matrix)
+*   [GIMP](flossing-for-lent/2023-03-02-gimp)
+*   [Ubuntu](flossing-for-lent/2023-03-03-ubuntu)
+*   [VLC](flossing-for-lent/2023-03-04-vlc)
+*   [Inkscape](flossing-for-lent/2023-03-06-inkscape)
+*   [Python](flossing-for-lent/2023-03-07-python)
+*   [OBS](flossing-for-lent/2023-03-08-obs)
+*   [Handbrake](flossing-for-lent/2023-03-09-handbrake)
+*   [Super Tux Kart](flossing-for-lent/2023-03-10-super-tux-kart)
+*   [F-Droid](flossing-for-lent/2023-03-11-fdroid)
+*   [Nextcloud](flossing-for-lent/2023-03-13-nextcloud)
+*   [WeeWx](flossing-for-lent/2023-03-14-weewx)
+*   [OsmAnd](flossing-for-lent/2023-03-15-osmand)
+*   [Jellyfin](flossing-for-lent/2023-03-16-jellyfin)
+*   [Bitwarden](flossing-for-lent/2023-03-17-bitwarden)
+*   [Thunderbird](flossing-for-lent/2023-03-18-thunderbird)
+*   [Syncthing](flossing-for-lent/2023-03-20-syncthing)
+*   [Jitsi](flossing-for-lent/2023-03-21-jitsi)
+*   [AntennaPod](flossing-for-lent/2023-03-22-antenna-pod)
+*   [Docker](flossing-for-lent/2023-03-23-docker)
+*   [Kdenlive](flossing-for-lent/2023-03-24-kdenlive)
+*   [Scratch](flossing-for-lent/2023-03-25-scratch)
+*   [Youtube-dl/yt-dlp](flossing-for-lent/2023-03-27-youtube-dl)
+*   [Blender](flossing-for-lent/2023-03-28-blender)
+*   [PDF Shuffler](flossing-for-lent/2023-03-29-pdf-shuffler)
+*   [7-Zip](flossing-for-lent/2023-03-30-7-zip)
+*   [Veracrypt](flossing-for-lent/2023-03-31-veracrypt)
+*   [wX](flossing-for-lent/2023-04-01-wx)
+*   [GCompris](flossing-for-lent/2023-04-03-gcompris)
+*   [TOR](flossing-for-lent/2023-04-04-tor)
+*   [Notepad++](flossing-for-lent/2023-04-05-notepadpp)
+*   [Signal](flossing-for-lent/2023-04-06-signal)
+*   [Tux Paint](flossing-for-lent/2023-04-07-tux-paint)
+*   [Mastodon](flossing-for-lent/2023-04-08-mastodon)
 
 Now I asked three different generative AI engines the following:
 
