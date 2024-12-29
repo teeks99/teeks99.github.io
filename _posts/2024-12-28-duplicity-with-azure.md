@@ -92,3 +92,13 @@ to add this feature, but until then, I'm trying it by hand. Once the volumes are
 uploaded, I'm manually setting them to "Cold" while leaving the larger metadata
 alone. Not great for a backup system, but I'm expecting the majority to be 
 uploaded the first day, then only small increments after that, so maybe doable? 
+
+
+References
+---------- 
+
+There were a couple posts I found when investigating this, but they didn't work
+as they don't use the `AZURE_CONNECTION_STRING` variable:
+
+*   [How to Backup Your Data to Azure Using Duplicity](https://www.luander.net/posts/duplicity-backup/)
+*   [How to Implement Duplicity with Azure](https://cari.net/implement-duplicity-with-azure/)
