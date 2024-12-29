@@ -103,3 +103,4 @@ as they don't use the `AZURE_CONNECTION_STRING` variable:
 *   [How to Backup Your Data to Azure Using Duplicity](https://www.luander.net/posts/duplicity-backup/)
 *   [How to Implement Duplicity with Azure](https://cari.net/implement-duplicity-with-azure/)
 *   [Wikipedia Link](https://en.wikipedia.org/wiki/Duplicity_(software))
+*   [Official Man Page](https://duplicity.gitlab.io/stable/duplicity.1.html)
